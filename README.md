@@ -1,3 +1,2 @@
-# hello-world
-Just another one
-Hi Matrix
+# Huffman-Encoding
+ Data Compression
